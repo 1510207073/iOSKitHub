@@ -1,17 +1,22 @@
 # iOSKitHub
 iOS中值得关注的第三方框架
 # UI
+### 布局
 - Masonry
 - [SDAutoLayout](https://github.com/gsdios/SDAutoLayout)
-- [SDCycleScrollView](https://github.com/gsdios/SDCycleScrollView)
+### 动画
+- pop
+### 控件
 - iCarousel
-- Texture(原AsyncDisplayKit)
 - MJRefresh
+- MBProgressHUD
+- [SDCycleScrollView](https://github.com/gsdios/SDCycleScrollView)
+- HCSStarRatingView
+### 流畅度优化
+- Texture(原AsyncDisplayKit)
+### 其他
 - IQKeyboardManager
 - UITableView+FDTemplateLayoutCell
-- MBProgressHUD
-- pop
-- HCSStarRatingView
 
 # 字典转模型
 - MJExtension
