@@ -1,5 +1,5 @@
 # iOSKitHub
-iOS中值得关注的第三方框架
+iOS中值得关注的第三方框架（欢迎投稿获得更多star）
 
 # UI
 - Masonry
